@@ -1,10 +1,10 @@
 # eleAche
 
 ## programador javscript full-stack con [Nodejs](https://nodejs.org) | pentester etico red team's | bash linux para big data [example: mi herramienta para terminal linux](https://github.com/LuisHDeAvila/pro-cuervo) | programador de web 3.0 [Blockchain developer](https://github.com/LuisHDeAvila/inv-aplicacion-descentralizada-solidity) | scripting (perl, python, powershell, ruby, bash, php) | autodidacta | tecnico en energias renovables | subscriptor RedHat
+## pacifista desde 2018
 
 
-ANTERIOR CUENTA: [eleache](https://github.com/eleache)
-
+## ALGUNOS REPOSITORIOS DE INTERES
 *  Herramienta para terminal de linux: [cuervo](https://github.com/LuisHDeAvila/pro-cuervo)
 *  Blockchain Smart contract: [aplicacion descentralizada](https://github.com/LuisHDeAvila/inv-aplicacion-descentralizada-solidity)
 *  Aplicacion FullStack Nodejs: [fullstack app](https://github.com/LuisHDeAvila/edu-fullstack)
@@ -16,9 +16,8 @@ ANTERIOR CUENTA: [eleache](https://github.com/eleache)
 *  Scripts para varios sistemas operativos: [only-script](https://github.com/LuisHDeAvila/edu-only-script)
 *  Red social estilo metroflog en nodejs: [Social net](https://github.com/LuisHDeAvila/pro-socialnetwork)
 
+_(estos fragmentos de codigo los comparto para fines educativos, no me hago responsable del mal uso que se pueda hacer de estos repositorios)_
 
----
-(estos fragmentos de codigo los comparto para fines educativos, no me hago responsable del mal uso que se pueda hacer de estos repositorios)
----
 
-## pacifista desde 2018
+
+ANTERIOR CUENTA: [eleache](https://github.com/eleache)
