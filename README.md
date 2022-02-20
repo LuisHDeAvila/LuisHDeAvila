@@ -1,8 +1,6 @@
-# eleAche
-
-## programador javscript full-stack con [Nodejs](https://nodejs.org) | pentester etico red team's | bash linux para big data [example: mi herramienta para terminal linux](https://github.com/LuisHDeAvila/pro-cuervo) | programador de web 3.0 [Blockchain developer](https://github.com/LuisHDeAvila/inv-aplicacion-descentralizada-solidity) | scripting (perl, python, powershell, ruby, bash, php) | autodidacta | tecnico en energias renovables | subscriptor RedHat
+# eleAche de Avila
+## programador javascript full-stack con nodejs | pentester etico red team | bash linux para big data | programador de web 3.0 & blockchain | scripting (perl, python, powershell, ruby, bash, php) | autodidacta | tecnico en energias renovables | subscriptor redhat
 ## pacifista desde 2018
-
 
 ## ALGUNOS REPOSITORIOS DE INTERES
 *  Herramienta para terminal de linux: [cuervo](https://github.com/LuisHDeAvila/pro-cuervo)
@@ -18,6 +16,5 @@
 
 _(estos fragmentos de codigo los comparto para fines educativos, no me hago responsable del mal uso que se pueda hacer de estos repositorios)_
 
-
-
 ANTERIOR CUENTA: [eleache](https://github.com/eleache)
+QUIEN SOY: [about me](https://github.com/LuisHDeAvila/LuisHDeAvila/blob/main/docs/aboutme.md)
