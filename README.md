@@ -1,7 +1,7 @@
 # eleAche de Avila
 ## programador javascript full-stack con nodejs | pentester etico red team | bash linux para big data | programador de web 3.0 & blockchain | scripting (perl, python, powershell, ruby, bash, php) | autodidacta | tecnico en energias renovables | subscriptor redhat
 ## pacifista desde 2018
-
+---
 ## ALGUNOS REPOSITORIOS DE INTERES
 *  Herramienta para terminal de linux: [cuervo](https://github.com/LuisHDeAvila/pro-cuervo)
 *  Blockchain Smart contract: [aplicacion descentralizada](https://github.com/LuisHDeAvila/inv-aplicacion-descentralizada-solidity)
@@ -15,6 +15,8 @@
 *  Red social estilo metroflog en nodejs: [Social net](https://github.com/LuisHDeAvila/pro-socialnetwork)
 
 _(estos fragmentos de codigo los comparto para fines educativos, no me hago responsable del mal uso que se pueda hacer de estos repositorios)_
+---
 
-ANTERIOR CUENTA: [eleache](https://github.com/eleache)
+ANTERIOR CUENTA: [eleache](https://github.com/eleache) ||
+
 QUIEN SOY: [about me](https://github.com/LuisHDeAvila/LuisHDeAvila/blob/main/docs/aboutme.md)
