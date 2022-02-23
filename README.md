@@ -14,7 +14,7 @@
 *  Scripts para varios sistemas operativos: [only-script](https://github.com/LuisHDeAvila/edu-only-script)
 *  Red social estilo metroflog en nodejs: [Social net](https://github.com/LuisHDeAvila/pro-socialnetwork)
 
-_(estos fragmentos de codigo los comparto para fines educativos, no me hago responsable del mal uso que se pueda hacer de estos repositorios)_
+_(no me hago responsable del mal uso que se pueda hacer de estos repositorios)_
 ---
 
 ANTERIOR CUENTA: [eleache](https://github.com/eleache) ||
