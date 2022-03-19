@@ -13,6 +13,8 @@
 *  Creando una distribucion propia linux: [guia de creacion](https://github.com/LuisHDeAvila/inv-kcrackend)
 *  Scripts para varios sistemas operativos: [only-script](https://github.com/LuisHDeAvila/edu-only-script)
 *  Red social estilo metroflog en nodejs: [Social net](https://github.com/LuisHDeAvila/pro-socialnetwork)
+*  Inteligencia artificial para negocios: [Ia-bussiness](https://github.com/LuisHDeAvila/InteligenciaArtificial-Empresas)
+*  sitio web con framework de react, Next js: [website-next](https://github.com/LuisHDeAvila/nextFramework-web)
 
 _(no me hago responsable del mal uso que se pueda hacer de estos repositorios)_
 ---
