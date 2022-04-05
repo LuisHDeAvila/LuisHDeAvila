@@ -1,6 +1,6 @@
 # eleAche de Avila
 
-![alt image](wallpaper.png)
+![alt image](wallpaper2.png)
 
 ## ALGUNOS REPOSITORIOS DE INTERES
 *  Herramienta para terminal de linux: [cuervo](https://github.com/LuisHDeAvila/pro-cuervo)
