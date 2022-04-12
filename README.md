@@ -2,7 +2,7 @@
 
 ![alt image](wallpaper2.png)
 
-## fullstack dev
+### 2 years ago they told me: "discover your talent and focus it towards your professional goal" and here I am
 ![alt image](1.png)
 ---
 ## EVERYTHING IS CONNECTED...
