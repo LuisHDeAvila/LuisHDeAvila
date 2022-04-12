@@ -13,6 +13,6 @@ Termux, Debian Linux, Ubuntu Linux, Finnix Linux
 ![alt image](https://github.com/LuisHDeAvila/pro-cuervo/blob/main/docs/cuervo.png)
 
 ## Ruby tools
-![alt image](https://github.com/LuisHDeAvila/ruby-pentest/tree/main/01_rainbow_attack)
+![alt image](https://github.com/LuisHDeAvila/ruby-pentest/blob/main/images/1.png)
 
-![alt image](https://github.com/LuisHDeAvila/ruby-pentest/tree/main/05_bannergrabbing)
+![alt image](https://github.com/LuisHDeAvila/ruby-pentest/blob/main/images/5.png)
