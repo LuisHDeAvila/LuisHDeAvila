@@ -10,10 +10,11 @@
 Originally from Coahuila, Mexico.
 
 ### EVERYTHING IS CONNECTED...
-![alt image](wallpaper2.png)
+![alt image](1.png)
 
 ---
-![alt image](1.png)
+![alt image](wallpaper2.png)
+
 
 ## Ruby
 ![alt image](https://github.com/LuisHDeAvila/ruby-pentest/blob/main/images/1.png)
